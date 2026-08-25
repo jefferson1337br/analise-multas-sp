@@ -114,6 +114,7 @@ Clone ou baixe este repositório.
 Abra o arquivo analise_multas_sp.ipynb no Google Colab ou Jupyter Notebook.
 Certifique-se de que o arquivo CSV esteja disponível no caminho utilizado pelo notebook.
 Execute as células na ordem apresentada.
+
 📌 Sobre o projeto
 
 Este projeto foi desenvolvido com foco na prática das principais etapas de uma análise de dados, desde a preparação e tratamento da base até a construção de visualizações e interpretação dos resultados.
